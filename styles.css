@@ -1,3 +1,33 @@
 body{
-    background-color: blueviolet;
+    background-image: url("../media/images/afaaa.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.p1{
+    font-size: 25px;
+    color: blueviolet;
+    text-align: justify;
+    text-decoration:line-through;
+}
+
+.p2{
+    font-size: 20px;
+    color: #4EC114;
+    text-decoration: underline;
+}
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
+.bxl-instagram{
+    font-size: 50px;
+    background-color: #89caf0;
+}
+.bxl-twitch{
+    font-size: 50px;
+    background-color: #89caf0;
 }
